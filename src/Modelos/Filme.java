@@ -1,6 +1,6 @@
 package Modelos;
 
-import br.com.jt.screenmach.modelo.calculo.Classificavel;
+import br.com.jt.screenmach.calculos.Classificavel;
 
 public class Filme extends Titulo implements Classificavel {
    private String diretor;
